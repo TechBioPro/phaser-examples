@@ -1,6 +1,6 @@
 # Phaser Examples
 A collection of games made by phaser, [DEMO](http://jojoee.github.io/phaser-examples/games/)
-
+[![Run on Repl.it](https://repl.it/badge/github/TechBioPro/phaser-examples)](https://repl.it/github/TechBioPro/phaser-examples)
 [![Phaser Examples - Screenshot](https://raw.githubusercontent.com/jojoee/phaser-examples/gh-pages/games/demo.jpg "Phaser Examples - Screenshot")](http://jojoee.github.io/phaser-examples/games/)
 
 ## Getting started
